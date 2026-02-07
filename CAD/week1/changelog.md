@@ -1,4 +1,5 @@
 Wing:
+
 Split the wing into 8 segments, 4 per each half. Each one is 220 mm in heigh.. Changed the airfoil to Epler 205. 
 
 The segments include:
